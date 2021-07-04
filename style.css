@@ -2,3 +2,12 @@ h1{
     background-color: blue;
     font-family: 'Poppins', sans-serif;
 }
+.physics {
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.text {
+width: 50%;
+}
