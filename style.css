@@ -1,13 +1,52 @@
 h1{
-    background-color: blue;
+    
     font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    
 }
-.physics {
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+span {
     color: crimson;
+}
+.pragraph{
+    text-align: justify;
 }
 section{
     display: flex;
+    padding: 5%;
+
+
+   background-repeat: no-repeat;
+   
+
 }
+body{
+    margin: 0%;
+}
+
 .text {
 width: 50%;
+}
+.text img{
+    
+    width: 80%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(orange, tomato);
+padding: 10px 30px;
+color: white;
+font-weight: 700;
+border-radius: 5px;
+
 }
